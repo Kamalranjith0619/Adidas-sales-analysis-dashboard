@@ -55,4 +55,5 @@
       Revenue Optimization: By focusing on profitable retailers and products, Adidas can maximize revenue and margin growth.
  
  9. screenshot
+     Dashboard preview - https://github.com/Kamalranjith0619/Adidas-sales-analysis-dashboard/blob/main/Adidas%20dashboard.png
      
