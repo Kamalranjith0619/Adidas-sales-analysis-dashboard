@@ -51,10 +51,11 @@
       Suitable for stakeholders and decision-makers in retail analytics
 
   7. 📈 Business Value
+     
      Improved Decision-Making: Helps executives and managers pinpoint what’s working and where performance is lagging.
-      Strategic Planning: Enables regional managers and product teams to align efforts with high-performing areas and categories.
-      Operational Efficiency: Inventory and supply chain teams can optimize stock levels based on regional and seasonal demand patterns.
-      Revenue Optimization: By focusing on profitable retailers and products, Adidas can maximize revenue and margin growth.
+     Strategic Planning: Enables regional managers and product teams to align efforts with high-performing areas and categories.
+     Operational Efficiency: Inventory and supply chain teams can optimize stock levels based on regional and seasonal demand patterns.
+     Revenue Optimization: By focusing on profitable retailers and products, Adidas can maximize revenue and margin growth.
  
  8. screenshot
      Dashboard preview - [https://github.com/Kamalranjith0619/Adidas-sales-analysis-dashboard/blob/main/Adidas%20dashboard.png]
